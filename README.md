@@ -76,6 +76,33 @@ PID   NAME                    STATUS      DESCRIPTION
 ```
 
 ---
+## `cat projects/fridah_agent/README.md`
+
+```
+╔══════════════════════════════════════════════════════╗
+║  FRIDAH AGENT  //  Personal AI Job Hunter            ║
+║  Status: RUNNING  |  Uptime: continuous              ║
+╚══════════════════════════════════════════════════════╝
+```
+
+> She's not public. She works exclusively for me — and she's earned that exclusivity.
+
+**What she does:**
+- 🔍 Scrapes Fuzu, BrighterMonday, JobWebKenya, MyJobMag & LinkedIn every 6 hours
+- 🧠 Scores each job against my CV using Gemini 2.0 Flash
+- ✉️ Drafts tailored cover letters for strong matches (score ≥ 7)
+- 📱 Pings me on Telegram — I confirm send or skip. I stay the boss.
+
+**Stack:** `Python` `Gemini 2.0 Flash` `Telegram Bot API` `Gmail SMTP` `Linux`
+
+**Scars:**
+```
+[WARN]  Started on Qwen2.5:14b via Ollama. 9GB model. 2min per job. Ripped out.
+[WARN]  OpenClaw locked me out at 2am for 32 hours over a Telegram config.
+[INFO]  Migrated to Gemini API. Problem solved. I am a changed man.
+```
+
+**First hunt:** 14 jobs found → 6 strong matches → 6 cover letters drafted. It works.
 
 ## `ping me`
 
