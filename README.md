@@ -76,11 +76,11 @@ PID   NAME                    STATUS      DESCRIPTION
 ```
 
 ---
-## `cat projects/fridah_agent/README.md`
+## `cat projects/Stacey_Agent/README.md`
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║  FRIDAH AGENT  //  Personal AI Job Hunter            ║
+║  Stacey Agent  //  Personal AI Job Hunter            ║
 ║  Status: RUNNING  |  Uptime: continuous              ║
 ╚══════════════════════════════════════════════════════╝
 ```
